@@ -1,1 +1,5 @@
-[]
+[{"id":1,"amount":100,"category":"ss","date":"2025-10-27T11:37:37.083Z"},
+{"id":2,"amount":100,"category":"ss","date":"2025-10-26T11:37:40.612Z"},
+{"id":3,"amount":100,"category":"ss","date":"2025-10-24T11:37:43.853Z"},
+{"id":5,"amount":100,"category":"ss","date":"2025-10-20T11:37:49.607Z"},
+{"id":6,"amount":200,"category":"ssjj","date":"2025-10-02T11:37:58.110Z"}]
